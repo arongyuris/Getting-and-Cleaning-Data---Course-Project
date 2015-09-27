@@ -14,11 +14,11 @@ This script, called run_analysis.R will:
 ## Instructions 
 
 * Load and run program with source("run_analysis.R") from your working directory
-        * The dataset will be automatically downloaded from the UCI Machine Learning Repository
-        * Output of the program will be the tidy_data.txt file 
-        * A brief description of the function of each segment of code can be found in the run_analysis.R file
+  * The dataset will be automatically downloaded from the UCI Machine Learning Repository
+  * Output of the program will be the tidy_data.txt file 
+  * A brief description of the function of each segment of code can be found in the run_analysis.R file
 
 * Program requires that plyr, dplyr and stringr packages be installed
-        * These packages will be automatically loaded
+  * These packages will be automatically loaded
         
 Refer to Code Book for a description of the data being analyzed
