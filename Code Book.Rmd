@@ -5,8 +5,8 @@
 This data is taken from the UC Irvine Machine Learning Repository.  The original source and 
 description of the data can be found here:
 
-Data - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Description - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+* Data - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* Description - http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Background 
 
@@ -46,41 +46,41 @@ The following files are available for the train and test data. Their description
 
 The tidy_data.txt file contains observations on the following parameters:
 
-subject - Identifier of subject
-activity - Type of activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-timeBodyAcceleration.mean-XYZ - mean time to obtain body acceleration signals
-timeGravityAcceleration.mean-XYZ - mean time to obtain gravity acceleration signals
-timeBodyAccelerationJerk-XYZ - mean time to obtain body acceleration jerk signals
-timeBodyVelocity.mean-XYZ - mean time to obtain body velocity signals
-timeBodyVelocityJerk.mean-XYZ - mean time to obtain body velocity jerk signals
-timeBodyAccelerationMagnitude.mean - mean time to obtain body acceleration magnitude signals
-timeGravityAccelerationMagnitude.mean - mean time to obtain gravity acceleration magnitude signals
-timeBodyAccelerationJerkMagnitude.mean - mean time to obtain body acceleration jerk magnitude signals 
-timeBodyVelocityMagnitude.mean - mean time to obtain body velocity magnitude signals
-timeBodyVelocityJerkMagnitude.mean - mean time to obtain body velocity jerk magnitude signals
-frequencyBodyAcceleration.mean-XYZ - mean frequency of body acceleration signals
-frequencyBodyAccelerationJerk.mean-XYZ - mean frequency of body acceleration jerk signals
-frequencyBodyVelocity.mean-XYZ - mean frequency of body velocity signals
-frequencyBodyAccelerationMagnitude.mean - mean frequency of body acceleration magnitude signals
-frequencyBodyBodyAccelerationJerkMagnitude.mean - mean frequency of BodyBody acceleration jerk magnitude signals 
-frequencyBodyBodyVelocityMagnitude.mean - mean frequency of BodyBody velocity magnitude signals
-frequencyBodyBodyVelocityJerkMagnitude.mean - mean frequency of BodyBody velocity jerk magnitude signals
-timeBodyAcceleration.std-XYZ - standard deviation of time to obtain body acceleration signals
-timeGravityAcceleration.std-XYZ - standard deviation of time to obtain body acceleration signals
-timeBodyAccelerationJerk.std-XYZ - standard deviation of time to obtain body acceleration jerk signals
-timeBodyVelocity.std-XYZ - standard deviation of time to obtain body velocity signals
-timeBodyVelocityJerk.std-XYZ - standard deviation of time to obtain body velocity jerk signals 
-timeBodyAccelerationMagnitude.std - standard deviation of time to obtain body acceleration magnitude signals
-timeGravityAccelerationMagnitude.std - standard deviation of time to obtain gravity acceleration magnitude signals
-timeBodyAccelerationJerkMagnitude.std - standard deviation of time to obtain body acceleration jerk magnitude signals 
-timeBodyVelocityMagnitude.std- standard deviation of time to obtain body velocity magnitude signals
-timeBodyVelocityJerkMagnitude.std - standard deviation of time to obtain body velocity jerk magnitude signals 
-frequencyBodyAcceleration.std-XYZ - standard deviation of frequency of body acceleration signals 
-frequencyBodyAccelerationJerk.std-XYZ - standard deviation of frequency of body acceleration jerk signals 
-frequencyBodyVelocity.std-XYZ - standard deviation of frequency of body velocity signals
-frequencyBodyAccelerationMagnitude.std - standard deviation of frequency of body acceleration magnitude signals 
-frequencyBodyBodyAccelerationJerkMagnitude.std - standard deviation of frequency of BodyBody acceleration jerk magnitude signals
-frequencyBodyBodyVelocityMagnitude.std - standard deviation of frequency of BodyBody velocity magnitude signals 
-frequencyBodyBodyVelocityJerkMagnitude.std - standard deviation of frequency of BodyBody velocity jerk magnitude signals
+* subject - Identifier of subject
+* activity - Type of activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+* timeBodyAcceleration.mean-XYZ - mean time to obtain body acceleration signals
+* timeGravityAcceleration.mean-XYZ - mean time to obtain gravity acceleration signals
+* timeBodyAccelerationJerk-XYZ - mean time to obtain body acceleration jerk signals
+* timeBodyVelocity.mean-XYZ - mean time to obtain body velocity signals
+* timeBodyVelocityJerk.mean-XYZ - mean time to obtain body velocity jerk signals
+* timeBodyAccelerationMagnitude.mean - mean time to obtain body acceleration magnitude signals
+* timeGravityAccelerationMagnitude.mean - mean time to obtain gravity acceleration magnitude signals
+* timeBodyAccelerationJerkMagnitude.mean - mean time to obtain body acceleration jerk magnitude signals 
+* timeBodyVelocityMagnitude.mean - mean time to obtain body velocity magnitude signals
+* timeBodyVelocityJerkMagnitude.mean - mean time to obtain body velocity jerk magnitude signals
+* frequencyBodyAcceleration.mean-XYZ - mean frequency of body acceleration signals
+* frequencyBodyAccelerationJerk.mean-XYZ - mean frequency of body acceleration jerk signals
+* frequencyBodyVelocity.mean-XYZ - mean frequency of body velocity signals
+* frequencyBodyAccelerationMagnitude.mean - mean frequency of body acceleration magnitude signals
+* frequencyBodyBodyAccelerationJerkMagnitude.mean - mean frequency of BodyBody acceleration jerk magnitude signals 
+* frequencyBodyBodyVelocityMagnitude.mean - mean frequency of BodyBody velocity magnitude signals
+* frequencyBodyBodyVelocityJerkMagnitude.mean - mean frequency of BodyBody velocity jerk magnitude signals
+* timeBodyAcceleration.std-XYZ - standard deviation of time to obtain body acceleration signals
+* timeGravityAcceleration.std-XYZ - standard deviation of time to obtain body acceleration signals
+* timeBodyAccelerationJerk.std-XYZ - standard deviation of time to obtain body acceleration jerk signals
+* timeBodyVelocity.std-XYZ - standard deviation of time to obtain body velocity signals
+* timeBodyVelocityJerk.std-XYZ - standard deviation of time to obtain body velocity jerk signals 
+* timeBodyAccelerationMagnitude.std - standard deviation of time to obtain body acceleration magnitude signals
+* timeGravityAccelerationMagnitude.std - standard deviation of time to obtain gravity acceleration magnitude signals
+* timeBodyAccelerationJerkMagnitude.std - standard deviation of time to obtain body acceleration jerk magnitude signals 
+* timeBodyVelocityMagnitude.std- standard deviation of time to obtain body velocity magnitude signals
+* timeBodyVelocityJerkMagnitude.std - standard deviation of time to obtain body velocity jerk magnitude signals 
+* frequencyBodyAcceleration.std-XYZ - standard deviation of frequency of body acceleration signals 
+* frequencyBodyAccelerationJerk.std-XYZ - standard deviation of frequency of body acceleration jerk signals 
+* frequencyBodyVelocity.std-XYZ - standard deviation of frequency of body velocity signals
+* frequencyBodyAccelerationMagnitude.std - standard deviation of frequency of body acceleration magnitude signals 
+* frequencyBodyBodyAccelerationJerkMagnitude.std - standard deviation of frequency of BodyBody acceleration jerk magnitude signals
+* frequencyBodyBodyVelocityMagnitude.std - standard deviation of frequency of BodyBody velocity magnitude signals 
+* frequencyBodyBodyVelocityJerkMagnitude.std - standard deviation of frequency of BodyBody velocity jerk magnitude signals
 
 
